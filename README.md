@@ -4,6 +4,13 @@ I am a ~~Front-end Devloperr~~ Web developer with Cloud Practitioner skills (AWS
 
 Since 2019 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
+<div align="center">
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
+
 ### What I'm focusing on 👨‍💻
 
 Currently improving my Cloud skills: Amazon Web Services [AWS].<br />
@@ -23,13 +30,6 @@ Currently improving my Cloud skills: Amazon Web Services [AWS].<br />
 - [What is S3 Bucket & How to mount a S3 Bucket as a Drive (network drive)](https://dev.to/shankarsurya035/what-is-s3-bucket-how-to-mount-a-s3-bucket-in-a-drive-network-drive-3d4f)
 - [Host a website on Ec2 instance with SSL enabled using an Application Load Balancer & add a custom domain managed by Route53.](https://dev.to/shankarsurya035/host-a-website-on-ec2-instance-with-ssl-enabled-using-an-application-load-balancer-add-a-custom-domain-managed-by-route53-4ko5)
 <!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-<p>Have a good day!</p>
-<div>
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
-</div>
-</div>
 
 ### Find me elsewhere 🌎
 
